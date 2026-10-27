@@ -48,6 +48,7 @@ An awesome collection of courses, books, tutorials, software, and other resource
 * [Wireshark Tutorial for Beginners](https://www.youtube.com/watch?v=flDzURAm8wQ&list=PL6gx4Cwl9DGBI2ZFuyZOl5Q7sptR7PwYN) - TheNewBoston Wireshark Tutorial for Beginners.
 * [MikroTik WinBox Manual](https://wiki.mikrotik.com/wiki/Manual:Winbox) - The official manual for MikroTik's WinBox software.
 * [Networking from Scratch](https://github.com/TanayK07/networking-from-scratch) - 289 hands-on lessons in C and Python covering the full network stack from raw bytes to eBPF.
+* [DNS Cheat Sheet](https://www.cheatgrid.com/networking/0362-dns-cheat-sheet) - Reference tables on DNS record types, DNSSEC, resolution, caching and TTL, response codes, attacks, email authentication records and troubleshooting commands.
 
 ## Books
 
